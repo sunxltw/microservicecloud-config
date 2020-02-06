@@ -5,11 +5,11 @@ spring:
 ---
 spring:
   profiles: dev
-    application: 
-      name: microservice-cloud-config-sunxl-dev
+  application: 
+    name: microservice-cloud-config-sunxl-dev
 
 ---
 spring:
   profiles: test
-    application: 
-      name: microservice-cloud-config-sunxl-test
+  application: 
+    name: microservice-cloud-config-sunxl-test
